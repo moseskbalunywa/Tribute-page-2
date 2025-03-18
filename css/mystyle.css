@@ -64,3 +64,13 @@ img {
     font-size: 1.4rem;
   }
 }
+
+.container {
+  margin-left: 500px;
+}
+
+.container-page {
+  position: absolute;
+  bottom: 160px;
+  width: 100%;
+}
